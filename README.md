@@ -13,4 +13,4 @@ Exp ::= Exp||Exp | Exp&&Exp | Exp==Exp | Exp<Exp | Exp+Exp | Exp-Exp | Exp * Exp
 	| !Exp | -Exp | top Exp | pop Exp | push(Exp,Exp) | [ExpSeq] | Exp@Exp | length Exp
 	| pair(Exp,Exp) | fst Exp | snd Exp | NUM | BOOL | ID | (Exp)
 
-Further specifications are defined in italian in "text.pdf"
+Further specifications are provided in italian in "text.pdf"
