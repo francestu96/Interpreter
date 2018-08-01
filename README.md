@@ -1,7 +1,8 @@
-Sintax
+Java interpreter for the following grammar
 
-Language sintax is defined from the not-terminal Prog by the following ambiguos grammar BNF (where the terminal symbols 
-are highlighted in blue).
+Sintax:
+
+Language sintax is defined from the not-terminal Prog by the following ambiguos grammar BNF.
 
 Prog ::= StmtSeq EOF
 StmtSeq ::= Stmt | Stmt;StmtSeq
