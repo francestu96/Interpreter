@@ -1,0 +1,12 @@
+// stampa true
+
+var x=0;
+var l=pop([1]);
+while(x<11){
+	var rem=x-x/2*2;
+	if(rem==0)
+		{l=push(x,l)}
+	else
+		{l=l};
+	x=x+1};
+print l==[0,2,4,6,8,10]

@@ -1,0 +1,3 @@
+// parsing error: Expecting EOF, found NUM('8')
+
+print 0778

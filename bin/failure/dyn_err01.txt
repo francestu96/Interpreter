@@ -1,0 +1,3 @@
+// evaluator exception: Undefined operation on the empty list
+
+print pop pop [0]

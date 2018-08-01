@@ -1,0 +1,4 @@
+// stampa true
+
+var an_ident_0=42;
+print an_ident_0==42

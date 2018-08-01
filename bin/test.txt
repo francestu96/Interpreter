@@ -1,0 +1,2 @@
+//var x=[1,2,3,4]; var s=0; var ris=0; for s in x {ris=ris+s}; print ris
+print 023+010

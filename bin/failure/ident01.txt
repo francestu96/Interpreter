@@ -1,0 +1,3 @@
+// tokenizer error: Unrecognized string _
+
+var _x=3

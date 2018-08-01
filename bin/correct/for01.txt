@@ -1,0 +1,4 @@
+// stampa true
+
+
+var x=[1,2,3]; var l=pop[0]; for x in x {l=push (x,l)}; var z=x; print z==l

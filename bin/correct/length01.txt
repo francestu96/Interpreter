@@ -1,0 +1,6 @@
+
+
+var l=pop[1];
+while(length l< 5){l=push(length l,l)
+};
+print l==[0,1,2,3,4]

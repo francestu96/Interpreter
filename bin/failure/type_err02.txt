@@ -1,0 +1,3 @@
+// typechecker exception: Found INT, expected BOOL
+
+var x=[true,1]; for y in x {print y}
